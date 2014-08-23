@@ -6,5 +6,7 @@ public class HelloGit {
 		System.out.println("hello Git!!");
 		
 		System.out.println("second..");
+		
+		System.out.println("hello world");
 	}
 }
